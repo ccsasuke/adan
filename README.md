@@ -12,8 +12,10 @@ Yu Sun,
 <br>
 Transactions of the Association for Computational Linguistics (TACL)
 <br>
-[paper](https://arxiv.org/abs/1606.01614),
-[bibtex]()
+[paper (arXiv)](https://arxiv.org/abs/1606.01614),
+[bibtex (arXiv)](http://www.cs.cornell.edu/~xlchen/resources/bibtex/adan.bib),
+[paper (TACL)](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00039),
+[bibtex](http://www.cs.cornell.edu/~xlchen/resources/bibtex/adan_tacl.bib)
 
 ## Introduction
 <img src="http://www.cs.cornell.edu/~xlchen/assets/images/adan.png" width="320">
