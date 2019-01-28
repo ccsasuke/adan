@@ -15,7 +15,8 @@ Transactions of the Association for Computational Linguistics (TACL)
 [paper (arXiv)](https://arxiv.org/abs/1606.01614),
 [bibtex (arXiv)](http://www.cs.cornell.edu/~xlchen/resources/bibtex/adan.bib),
 [paper (TACL)](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00039),
-[bibtex](http://www.cs.cornell.edu/~xlchen/resources/bibtex/adan_tacl.bib)
+[bibtex](http://www.cs.cornell.edu/~xlchen/resources/bibtex/adan_tacl.bib),
+[talk@EMNLP2018](https://vimeo.com/306129914)
 
 ## Introduction
 <img src="http://www.cs.cornell.edu/~xlchen/assets/images/adan.png" width="320">
