@@ -50,7 +50,7 @@ It achieves cross-lingual model transfer via learning language-invariant feature
 
 ## Dataset
 
-The datasets can be downloaded separately [here](https://www.dropbox.com/sh/zlnjcrc6l9zlry4/AAApYaSz9PvESc5xMiAKD_Jka?dl=0).
+The datasets can be downloaded separately [here](https://drive.google.com/drive/folders/1_JSr_VBVQ33hS0PuFjg68d3ePBr_eISF?usp=sharing).
 
 To support new datasets, simply write a new script under ```data_prep``` similar to the current ones and update ```train.py``` to correctly load it.
 
